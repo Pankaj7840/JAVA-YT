@@ -5,3 +5,5 @@ package india;
     		System.out.println("odisha belongs from india");
     	}
     }
+//java -d . a1.java
+//java india.Odisha
