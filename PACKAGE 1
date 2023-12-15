@@ -1,0 +1,7 @@
+package india;
+ class Odisha
+    {
+    	public static void main(String[] args) {
+    		System.out.println("odisha belongs from india");
+    	}
+    }
